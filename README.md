@@ -5,8 +5,9 @@
 ### 💬 Ask me about .NET, Java and mobile development
 ### ⚡ Fun fact: I and really geek, love games and love study (very nerd 🤓)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasV&layout=compact&theme=radical" />
-
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolas-vieira&layout=compact&theme=radical" />
+</div>
 <!--
 **nycolas-vieira/nycolas-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
