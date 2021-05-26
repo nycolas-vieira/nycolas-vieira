@@ -1,4 +1,4 @@
-## Hi there😁
+## Hi there 😁
 
 ### 👔 Currently working on Mercado Livre
 ### 📚 Currently learning about Java back-end amd Flutter mobile
