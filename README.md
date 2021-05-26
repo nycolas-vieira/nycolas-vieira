@@ -3,7 +3,7 @@
 ### 👔 Currently working on Mercado Livre
 ### 📚 Currently learning about Java back-end amd Flutter mobile
 ### 💬 Ask me about .NET, Java and mobile development
-### ⚡ Fun fact: I and really geek, love games and love study (very nerd 🤓)
+### ⚡ Fun fact: I am really geek, love games and study (very nerd 🤓)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolas-vieira&layout=compact&theme=radical" style="text-align: center" />
 
