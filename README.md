@@ -1,9 +1,10 @@
-## Hi there 😁
+# Hi there 😁
 
-### 👔 Currently working on Mercado Livre
-### 📚 Currently learning about Java back-end amd Flutter mobile
-### 💬 Ask me about .NET, Java and mobile development
-### ⚡ Fun fact: I am really geek, love games and study (very nerd 🤓)
+## 👔 Currently working on Mercado Livre
+## 📚 Currently learning about Java back-end and Flutter mobile
+## 💬 Ask me about .NET, Java and mobile development
+## 🌎 User of Manjaro Linux, Windows and Mac
+## ⚡ Fun fact: I am really geek, love games and study (very nerd 🤓)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolas-vieira&layout=compact&theme=radical" style="text-align: center" />
 
